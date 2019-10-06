@@ -51,4 +51,4 @@ Variável | Descrição
 @ANOINI             | Data do primeiro dia do ano atual com a hora 00:00:00
 @ANOFIM             | Data do último dia do ano atual com a hora 23:59:59
       
-* ATENÇÃO: Todas as datas e horas são no formado do banco de dados(Y-m-d H:i:s)
+> ATENÇÃO: Todas as datas e horas são no formado do banco de dados(Y-m-d H:i:s)
