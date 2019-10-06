@@ -1,0 +1,3 @@
+# Variaveis para usar nos filtros do sistema
+
+....
